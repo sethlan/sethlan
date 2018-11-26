@@ -5,10 +5,10 @@ projectUrl: resume
 person:
   name: Gleb Oznobikhin
   depiction: me.jpg
-  profession: Backend программист
+  profession: Бэкенд JS-программист
   location: Иркутск
   citizenship: РФ
-  email: sethlans@protonmail.com
+  email: sethlans@pm.me
   site: https://sethlan.github.io
   phone: +7-908-662-32-14
   github: /sethlan
@@ -16,12 +16,17 @@ person:
 
 technicalSkills:
   list:
-    - tr: "Javasctipt"
+    - tr: "JavaScript"
     - tr: "Node.js"
     - tr: "Git"
   backend:
    - name: Node.js
+     level: 50
+  frontend:
+   - name: HTML
      level: 70
+   - name: CSS
+     level: 50
   other:
    - name: bash
      level: 50
@@ -30,11 +35,10 @@ technicalSkills:
 
 sideProjects:
   - name: Первый проект в Хекслет
-    description: cli-games
+    description: Игры в консоли
     link: https://github.com/sethlan/project-lvl1-s192.git
     type: cli-utilite
     langs: JS
-
   - name: Второй проект в Хекслет
     description: Вычислитель отличий в файлах типа json, yaml, ini
     link: https://github.com/sethlan/project-lvl2-s193.git
